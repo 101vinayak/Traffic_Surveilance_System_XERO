@@ -1,6 +1,6 @@
-# Traffic_Surveilance_System_XERO
+# Traffic_Surveilance_System
 
-**Traffic Count and Classification Application** is an application to be offered by [**Xero Technologies**](https://xeroed.tech/) in 
+**Traffic Count and Classification Application** is an application to 
 support of Classifying and tracking flow across multiple classes of Transport vehicles 
 over visual data.
 
